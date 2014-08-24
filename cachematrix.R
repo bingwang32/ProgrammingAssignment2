@@ -1,3 +1,6 @@
+# Bing W
+# R Programming Assignment 2
+# github: bingwang32
 
 makeCacheMatrix <- function(x = matrix()) {
 
